@@ -1,0 +1,9 @@
+D:\C_sharp\calc\calc\bin\Debug\calc.exe.config
+D:\C_sharp\calc\calc\bin\Debug\calc.exe
+D:\C_sharp\calc\calc\bin\Debug\calc.pdb
+D:\C_sharp\calc\calc\obj\Debug\calc.csprojResolveAssemblyReference.cache
+D:\C_sharp\calc\calc\obj\Debug\calc.Form1.resources
+D:\C_sharp\calc\calc\obj\Debug\calc.Properties.Resources.resources
+D:\C_sharp\calc\calc\obj\Debug\calc.csproj.GenerateResource.Cache
+D:\C_sharp\calc\calc\obj\Debug\calc.exe
+D:\C_sharp\calc\calc\obj\Debug\calc.pdb
